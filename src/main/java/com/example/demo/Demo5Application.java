@@ -30,7 +30,10 @@ public class Demo5Application {
        Iterable<TableUser> tableUsers= repo.saveAll(list);
        tableUsers.forEach(user->{
            System.out.println(user);
+
        });
+
+
 
 
 

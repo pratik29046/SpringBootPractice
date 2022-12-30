@@ -26,6 +26,7 @@ public class TableUser {
         this.salary = salary;
     }
 
+
     public long getId() {
         return id;
     }
